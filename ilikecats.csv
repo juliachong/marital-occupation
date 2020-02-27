@@ -1,0 +1,25 @@
+CATEGORY,CODE,
+Management,10-430,1
+Business and Financial Operations,500-950,2
+Computer and Mathematical,1000-1240,3
+Architecture and Engineering,1300-1560,4
+"Life, Physical, Social Science",1600- 1965,5
+Community and Social Service,2000-2060,6
+Legal,2100-2160,7
+"Education, Training, Library",2200-2550,8
+"Arts, Design, Entertainment, Sports, Media",2600-2960,9
+Healthcare and Technical,3000-3540,10
+Healthcare Support,3600-3655,11
+Protective Service,3700-3955,12
+Food Prep and Serving,4000-4160,13
+Building and Grounds Cleaning/Maintenance,4200-4250,14
+Personal Care and Service,4300-4650,15
+Sales and Related,4700-4965,16
+Office and Administrative Support,5000-5940,17
+"Farming, Fishing, Forestry",6005-6130,18
+Construction/Extraction,6200-6940,19
+"Installation, Maintenance, Repair",7000-7630,20
+Production,7700-8965,21
+Transportation,9000-9420,22
+Material Moving,9500-9750,23
+Military,9800-9830,24

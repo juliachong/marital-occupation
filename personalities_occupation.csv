@@ -1,0 +1,296 @@
+,occupation,type
+0,Military,ESTJ
+1,business administrators,ESTJ
+2,managers,ESTJ
+3,police/detective work,ESTJ
+4,judges,ESTJ
+5,financial officers,ESTJ
+6,teachers,ESTJ
+7,sales representatives,ESTJ
+8,government workers,ESTJ
+9,insurance agents,ESTJ
+10,underwriters,ESTJ
+11,nursing administrators,ESTJ
+12,trade and technical teachers,ESTJ
+0,Business executives,ISTJ
+1,administrators and managers,ISTJ
+2,accountants,ISTJ
+3,police,ISTJ
+4,detectives,ISTJ
+5,judges,ISTJ
+6,lawyers,ISTJ
+7,medical doctors,ISTJ
+8,dentists,ISTJ
+9,computer programmers,ISTJ
+10,systems analysts,ISTJ
+11,computer specialists,ISTJ
+12,auditors,ISTJ
+13,electricians,ISTJ
+14,math teachers,ISTJ
+15,mechanical engineers,ISTJ
+16,steelworkers,ISTJ
+17,technicians,ISTJ
+0,Home economics,ESFJ
+1,nursing,ESFJ
+2,teaching,ESFJ
+3,administrators,ESFJ
+4,child care,ESFJ
+5,family practice physician,ESFJ
+6,clergy,ESFJ
+7,office managers,ESFJ
+8,counselors,ESFJ
+9,social workers,ESFJ
+10,bookkeeping,ESFJ
+11,accounting,ESFJ
+12,secretaries,ESFJ
+13,organization leaders,ESFJ
+14,dental assistants,ESFJ
+15,radiological technologists,ESFJ
+16,receptionists,ESFJ
+17,religious educators,ESFJ
+18,speech pathologists,ESFJ
+0,Interior decorators,ISFJ
+1,designers,ISFJ
+2,nurses,ISFJ
+3,administrators,ISFJ
+4,managers,ISFJ
+5,secretaries,ISFJ
+6,child care/early childhood development,ISFJ
+7,social work,ISFJ
+8,counselors,ISFJ
+9,paralegals,ISFJ
+10,clergy,ISFJ
+11,office managers,ISFJ
+12,shopkeepers,ISFJ
+13,bookkeepers,ISFJ
+14,gardeners,ISFJ
+15,clerical supervisors,ISFJ
+16,curators,ISFJ
+17,family practice physicians,ISFJ
+18,health service workers,ISFJ
+19,librarians,ISFJ
+20,medical technologists,ISFJ
+21,typists,ISFJ
+0,Sales representatives,ESTP
+1,marketers,ESTP
+2,police,ESTP
+3,detectives,ESTP
+4,paramedics,ESTP
+5,medical technicians,ESTP
+6,computer technicians,ESTP
+7,computer technical support,ESTP
+8,entrepreneurs,ESTP
+9,comedians,ESTP
+10,agents,ESTP
+11,firefighters,ESTP
+12,military,ESTP
+13,auditors,ESTP
+14,carpenters,ESTP
+15,craft workers,ESTP
+16,farmers,ESTP
+17,laborers,ESTP
+18,service workers,ESTP
+19,transportation operatives,ESTP
+0,Police,ISTP
+1,detectives,ISTP
+2,forensic pathologists,ISTP
+3,computer programmers,ISTP
+4,system analysts,ISTP
+5,computer specialists,ISTP
+6,engineers,ISTP
+7,carpenters,ISTP
+8,mechanics,ISTP
+9,pilots,ISTP
+10,drivers,ISTP
+11,athletes,ISTP
+12,entrepreneurs,ISTP
+13,firefighters,ISTP
+14,paramedics,ISTP
+15,construction workers,ISTP
+16,dental hygienists,ISTP
+17,electrical engineers,ISTP
+18,farmers,ISTP
+19,military,ISTP
+20,probation officers,ISTP
+21,steelworkers,ISTP
+22,transportation operatives,ISTP
+0,Artists,ISFP
+1,musicians,ISFP
+2,composers,ISFP
+3,designers,ISFP
+4,child care workers,ISFP
+5,social workers,ISFP
+6,counselors,ISFP
+7,teachers,ISFP
+8,veterinarians,ISFP
+9,forest rangers,ISFP
+10,bookkeepers,ISFP
+11,carpenters,ISFP
+12,personal service workers,ISFP
+13,clerical supervisors,ISFP
+14,secretaries,ISFP
+15,dental and medical staffers,ISFP
+16,waiters and waitresses,ISFP
+17,chefs,ISFP
+18,nurses,ISFP
+19,mechanics,ISFP
+20,physical therapists,ISFP
+21,x-ray technicians,ISFP
+0,Teachers,ENFJ
+1,consultants,ENFJ
+2,psychiatrists,ENFJ
+3,social workers,ENFJ
+4,counselors,ENFJ
+5,clergy,ENFJ
+6,sales representative,ENFJ
+7,human resources,ENFJ
+8,managers,ENFJ
+9,events coordinators,ENFJ
+10,politicians,ENFJ
+11,diplomats,ENFJ
+12,writers,ENFJ
+13,actors,ENFJ
+14,designers,ENFJ
+15,musicians,ENFJ
+16,religious workers,ENFJ
+17,writers,ENFJ
+0,Counselors,INFJ
+1,clergy,INFJ
+2,missionaries,INFJ
+3,teachers,INFJ
+4,medical doctors,INFJ
+5,dentists,INFJ
+6,chiropractors,INFJ
+7,psychologists,INFJ
+8,psychiatrists,INFJ
+9,writers,INFJ
+10,musicians,INFJ
+11,artists,INFJ
+12,psychics,INFJ
+13,photographers,INFJ
+14,child care workers,INFJ
+15,education consultants,INFJ
+16,librarians,INFJ
+17,marketers,INFJ
+18,scientists,INFJ
+19,social workers,INFJ
+0,Actors,ENFP
+1,journalists,ENFP
+2,writers,ENFP
+3,musicians,ENFP
+4,painters,ENFP
+5,consultants,ENFP
+6,psychologists,ENFP
+7,psychiatrists,ENFP
+8,entrepreneurs,ENFP
+9,teachers,ENFP
+10,counselors,ENFP
+11,politicians,ENFP
+12,television reporters,ENFP
+13,marketers,ENFP
+14,scientists,ENFP
+15,sales representatives,ENFP
+16,artists,ENFP
+17,clergy,ENFP
+18,public relations,ENFP
+19,social scientists,ENFP
+20,social workers,ENFP
+0,Writers,INFP
+1,artists,INFP
+2,counselors,INFP
+3,social workers,INFP
+4,English teachers,INFP
+5,fine arts teachers,INFP
+6,child care workers,INFP
+7,clergy,INFP
+8,missionaries,INFP
+9,psychologists,INFP
+10,psychiatrists,INFP
+11,scientists,INFP
+12,political activists,INFP
+13,editors,INFP
+14,education consultants,INFP
+15,journalists,INFP
+16,religious educators,INFP
+17,social scientists,INFP
+0,Business executives,ENTJ
+1,CEOs,ENTJ
+2,organization founders,ENTJ
+3,business administrators,ENTJ
+4,managers,ENTJ
+5,entrepreneurs,ENTJ
+6,judges,ENTJ
+7,lawyers,ENTJ
+8,computer consultants,ENTJ
+9,university professors,ENTJ
+10,politicians,ENTJ
+11,credit investigators,ENTJ
+12,labor relations worker,ENTJ
+13,marketing department manager,ENTJ
+14,mortgage banker,ENTJ
+15,systems analysts,ENTJ
+16,scientists,ENTJ
+0,Scientists,INTJ
+1,engineers,INTJ
+2,professors,INTJ
+3,teachers,INTJ
+4,medical doctors,INTJ
+5,dentists,INTJ
+6,corporate strategists,INTJ
+7,organization founders,INTJ
+8,business administrators,INTJ
+9,managers,INTJ
+10,military,INTJ
+11,lawyers,INTJ
+12,judges,INTJ
+13,computer programmers,INTJ
+14,system analysts,INTJ
+15,computer specialists,INTJ
+16,psychologists,INTJ
+17,photographers,INTJ
+18,research department managers,INTJ
+19,researchers,INTJ
+20,university instructors,INTJ
+0,Entrepreneurs,ENTP
+1,lawyers,ENTP
+2,psychologists,ENTP
+3,photographers,ENTP
+4,consultants,ENTP
+5,sales representatives,ENTP
+6,actors,ENTP
+7,engineers,ENTP
+8,scientists,ENTP
+9,inventors,ENTP
+10,marketers,ENTP
+11,computer programmers,ENTP
+12,comedians,ENTP
+13,computer analysts,ENTP
+14,credit investigators,ENTP
+15,journalists,ENTP
+16,psychiatrists,ENTP
+17,public relations,ENTP
+18,designers,ENTP
+19,writers,ENTP
+20,artists,ENTP
+21,musicians,ENTP
+22,politicians,ENTP
+0,Physicists,INTP
+1,chemists,INTP
+2,biologists,INTP
+3,photographers,INTP
+4,strategic planners,INTP
+5,mathematicians,INTP
+6,university professors,INTP
+7,computer programmers,INTP
+8,computer animators,INTP
+9,technical writers,INTP
+10,engineers,INTP
+11,lawyers,INTP
+12,forensic researchers,INTP
+13,writers,INTP
+14,artists,INTP
+15,psychologists,INTP
+16,social scientists,INTP
+17,systems analysts,INTP
+18,researchers,INTP
+19,surveyors,INTP
