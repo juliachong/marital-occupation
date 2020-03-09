@@ -27,6 +27,6 @@ Models:
 
 
 ![](Elbow.png)
-![](Kmeans Intercluster Distance.png)
+![](kmeansclustering.png)
 ![](KMeansClusters.png)
 
