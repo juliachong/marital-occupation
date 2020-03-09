@@ -15,8 +15,8 @@ Data:
   - Merged salary data for both males and females for both partners of each marital couple (Male physician/surgeon salary: $211,526 vs Female physician/surgeon salary: $150,053)
   - Calculated the absolute difference between the salaries of each partner of each marital couple to determine income inequality per couple
   
-![](Barplot Salary Range.png)
-![](Choice Range.png)
+![](barplot.png)
+![](choice.png)
 
   
   
